@@ -105,9 +105,9 @@ dependencies:
   namico_login_manager:
     git:
       url: https://github.com/namidaco/namico_login_manager
-  namico_subscription_manager:
-    git:
-      url: https://github.com/namidaco/namico_subscription_manager
+  #namico_subscription_manager:
+  #  git:
+  #    url: https://github.com/namidaco/namico_subscription_manager
 
   # ---- Image Utilities ----
   palette_generator: ^0.3.3+2
